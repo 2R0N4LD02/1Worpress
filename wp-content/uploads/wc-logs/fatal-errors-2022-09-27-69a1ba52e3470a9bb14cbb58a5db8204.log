@@ -1,0 +1,10 @@
+2022-09-27T15:40:37+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php:691) en C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php en la línea 691
+
+2022-09-27T15:41:14+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php:691) en C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php en la línea 691
+
+2022-09-27T15:42:49+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php:691) en C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php en la línea 691
+
+2022-09-27T15:48:10+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php:691) en C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php en la línea 691
+
+2022-09-27T15:50:01+00:00 CRITICAL Cannot redeclare astra_cart_position() (previously declared in C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php:691) en C:\wamp64\www\meurge\wp-content\themes\astra\inc\builder\type\header\woo-cart\dynamic-css\dynamic.css.php en la línea 691
+
